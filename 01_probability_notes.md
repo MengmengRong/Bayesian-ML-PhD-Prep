@@ -95,18 +95,4 @@ flips = np.random.choice(['H', 'T'], size=n)
 heads_prob = np.mean(flips == 'H')
 print(f"Empirical P(H) ≈ {heads_prob}")
 
----
 
-## 🧠 Reflections
-
-- What concepts were easy/difficult?
-- How do I intuitively understand conditional probability?
-- What questions do I have before moving on to Bayesian modeling?
-
----
-
-## ✅ Done
-
-- [ ] Khan Academy probability module
-- [ ] MIT 18.05 first 3 lectures
-- [ ] Drafted personal notes
