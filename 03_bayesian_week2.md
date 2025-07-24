@@ -21,6 +21,14 @@ This document summarizes key concepts from Week 2 of the Bayesian Statistics cou
 P(\theta \mid x) \propto P(x \mid \theta) \cdot P(\theta)
 \]
 
+If A and B are two events, the probability that A or B happens (this is an inclusive or, meaning that either A, or B, or both happen) is the probability of the union of the events:
+
+$$ P(A \cup B) = P(A) + P(B) - P(A \cap B) $$
+
+where \cup represents union (\or") and \cap represents intersection (\and"). If a set of events A_i for i = 1...,m are mutually exclusive (only one can happen), then
+
+$$ P\left(\bigcup_{i=1}^{m} A_i\right) = \sum_{i=1}^{m} P(A_i) $$ 
+
 ---
 
 ## 💡 Reflections
