@@ -84,7 +84,7 @@ P(A|B) = \frac{P(A \cap B)}{P(B)}
 
 ---
 
-### 🧪 Practice Examples
+## 🧪 Practice Examples
 
 ```python
 # Simulate coin tosses and calculate empirical probabilities
@@ -97,7 +97,7 @@ print(f"Empirical P(H) ≈ {heads_prob}")
 
 ---
 
-### 🧠 Reflections
+## 🧠 Reflections
 
 - What concepts were easy/difficult?
 - How do I intuitively understand conditional probability?
@@ -105,7 +105,7 @@ print(f"Empirical P(H) ≈ {heads_prob}")
 
 ---
 
-### ✅ Done
+## ✅ Done
 
 - [ ] Khan Academy probability module
 - [ ] MIT 18.05 first 3 lectures
