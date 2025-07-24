@@ -13,6 +13,7 @@ I aim to apply for PhD programs focusing on probabilistic modeling and Bayesian 
 
 ## 🧪 What I've Done
 
+- Prior to starting Bayesian modeling, I completed a review of foundational probability theory (Khan Academy, Chapters 1–3), covering conditional probability, independence, expected value, and variance. The content was familiar and reinforced my readiness for Bayesian reasoning.
 - Completed [Bayesian Statistics – Coursera]
 - Reviewed probability theory (Khan Academy + MIT 18.05)
 - Built small Bayesian models in PyMC3
