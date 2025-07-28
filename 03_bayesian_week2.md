@@ -1,4 +1,4 @@
-# Week 2: Bayesian Thinking – Priors, Likelihood, Posterior
+# Week 2: Bayesian Thinking
 
 This document summarizes key concepts from Week 2 of the Bayesian Statistics course on Coursera (UCSC). It covers the basic building blocks of Bayesian inference.
 
