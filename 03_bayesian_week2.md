@@ -1,4 +1,4 @@
-# Week 2: Bayesian Thinking
+# Week 2: Bayesian Thinking, Inference, and 
 
 This document summarizes key concepts from Week 2 of the Bayesian Statistics course on Coursera (UCSC). It covers the basic building blocks of Bayesian inference.
 
