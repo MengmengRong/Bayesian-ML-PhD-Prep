@@ -104,6 +104,11 @@ $$ P\left(\bigcup_{i=1}^{m} A_i\right) = \sum_{i=1}^{m} P(A_i) $$
 
 - Quantile Function
   The CDF takes a value for a random variable and returns a probability. Suppose instead that we start with a number between 0 and 1, call it p,    and we wish to find the value x so that P(X <= x) = p. The value x which satisfies this equation is called the p quantile (or 100p percentile)     of the distribution of X.
+
+- Probability Distributions in R
+  <img width="1100" height="309" alt="image" src="https://github.com/user-attachments/assets/20ed8d95-7f96-465e-81e7-cfc4dd52d618" />
+  <img width="1037" height="462" alt="image" src="https://github.com/user-attachments/assets/8a3af64e-d571-4cd9-8a67-b63980faf2cc" />
+
   
 ---
 
