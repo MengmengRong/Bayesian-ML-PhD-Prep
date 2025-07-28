@@ -102,7 +102,12 @@ $$ P\left(\bigcup_{i=1}^{m} A_i\right) = \sum_{i=1}^{m} P(A_i) $$
   Calculation Formula (计算公式 - derived from definition):
   Cov(X,Y) = E[XY] - E[X]E[Y]
 
+- Quantile Function
+  The CDF takes a value for a random variable and returns a probability. Suppose instead that we start with a number between 0 and 1, call it p,    and we wish to find the value x so that P(X <= x) = p. The value x which satisfies this equation is called the p quantile (or 100p percentile)     of the distribution of X.
+  
 ---
+
+
 
 ## 💡 Reflections
 
